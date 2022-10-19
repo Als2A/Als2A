@@ -1,7 +1,10 @@
 # Alex Lorente
-### Design and Games 🎨🕹️
+### Design and Games
 
 
 Soy estudiante de Diseño de videojuegos en Cev.
 
 
+### Skills
+
+### Social Media
