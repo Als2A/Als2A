@@ -23,6 +23,7 @@ Soy estudiante de Diseño de videojuegos en Cev.
 
 #### Audio
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+![Fl](https://img.shields.io/badge/FL-Fruity%20Loops%20Studio-orange)
 
 #### 3D
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
